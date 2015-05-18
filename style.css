@@ -1,0 +1,17 @@
+body { color: red; }
+
+* {
+   outline: 1px solid black !important;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+.image{
+	max-width: 180px;
+}
+.description{
+	max-width: 180px;
+}
